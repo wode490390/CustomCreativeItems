@@ -19,7 +19,7 @@ Please see [mcbbs](http://www.mcbbs.net/thread-902235-1-1.html) for more informa
       "id": 446,
       "damage": 15,
       "nbt_hex": "0a0000030400547970650100000000"
-    },
+    }
   ]
 }
 ```
